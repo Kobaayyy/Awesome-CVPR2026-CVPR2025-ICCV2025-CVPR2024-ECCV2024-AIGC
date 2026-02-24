@@ -2,7 +2,7 @@
 
 A Collection of Papers and Codes for CVPR2024 AIGC
 
-**整理汇总了下2025年CVPR，2025年ICCV，2024年CVPR和2024年ECCV AIGC相关的论文和代码，具体如下。**
+**整理汇总了下2026年CVPR,2025年CVPR，2025年ICCV，2024年CVPR和2024年ECCV AIGC相关的论文和代码，具体如下。**
 
 **欢迎star，fork和PR~**
 
@@ -12,6 +12,8 @@ A Collection of Papers and Codes for CVPR2024 AIGC
 
 # 底层视觉社区信息平台：https://lowlevelcv.com/
 
+# Awesome-CVPR2026-AIGC
+- [Awesome-CVPR2026-AIGC](https://github.com/Kobaayyy/Awesome-CVPR2026-CVPR2025-ICCV2025-CVPR2024-ECCV2024-AIGC/blob/main/CVPR2026.md)
 # Awesome-CVPR2025-AIGC
 - [Awesome-CVPR2025-AIGC](https://github.com/Kobaayyy/Awesome-CVPR2024-ECCV2024-AIGC/blob/main/CVPR2025.md)
 # Awesome-ICCV2025-AIGC
